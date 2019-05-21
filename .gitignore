@@ -47,3 +47,9 @@ local.properties
 flows/
 target/
 src/main/api/.repository/ 
+
+#------------------#
+# Derby / ActiveMQ #
+#------------------#
+activemq-data
+derby.log
