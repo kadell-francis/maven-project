@@ -24,7 +24,7 @@ http://www.mulesoft.org/schema/mule/sftp http://www.mulesoft.org/schema/mule/sft
 	<http:listener-config
 		name="HTTP_Listener_Configuration"
 		host="0.0.0.0"
-		port="8081"
+		port="8887"
 		doc:name="HTTP Listener Configuration" />
 	<spring:beans>
 		<spring:bean
